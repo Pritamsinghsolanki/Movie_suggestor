@@ -28,7 +28,7 @@ Generate API key from : http://www.omdbapi.com/apikey.aspx
 
 ### Whom do I talk to?
 
-- Pritam : [Programmer](https://pritamsinghsolanki.github.io/Portfolio/#/about)
+- Pritam : [Programmer](https://pritamsinghsolanki.github.io/Portfolio/)
 
 ### How can I appreciate this repo?
 
