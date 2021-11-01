@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Pritamsinghsolanki/Movie_suggestor/static/css/main.27ebb0d0.chunk.css",
+    "main.js": "/Pritamsinghsolanki/Movie_suggestor/static/js/main.70201ecb.chunk.js",
+    "main.js.map": "/Pritamsinghsolanki/Movie_suggestor/static/js/main.70201ecb.chunk.js.map",
+    "runtime-main.js": "/Pritamsinghsolanki/Movie_suggestor/static/js/runtime-main.e351de4e.js",
+    "runtime-main.js.map": "/Pritamsinghsolanki/Movie_suggestor/static/js/runtime-main.e351de4e.js.map",
+    "static/js/2.ea15548c.chunk.js": "/Pritamsinghsolanki/Movie_suggestor/static/js/2.ea15548c.chunk.js",
+    "static/js/2.ea15548c.chunk.js.map": "/Pritamsinghsolanki/Movie_suggestor/static/js/2.ea15548c.chunk.js.map",
+    "index.html": "/Pritamsinghsolanki/Movie_suggestor/index.html",
+    "static/css/main.27ebb0d0.chunk.css.map": "/Pritamsinghsolanki/Movie_suggestor/static/css/main.27ebb0d0.chunk.css.map",
+    "static/js/2.ea15548c.chunk.js.LICENSE.txt": "/Pritamsinghsolanki/Movie_suggestor/static/js/2.ea15548c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e351de4e.js",
+    "static/js/2.ea15548c.chunk.js",
+    "static/css/main.27ebb0d0.chunk.css",
+    "static/js/main.70201ecb.chunk.js"
+  ]
+}
